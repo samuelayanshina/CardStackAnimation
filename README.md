@@ -26,7 +26,7 @@ This project showcases a card-stacking interface where users can swipe through f
 
 ### 📸 Preview
 
-https://user-images.githubusercontent.com/YOUR_USERNAME_HERE/demo-clip.gif *(replace with demo GIF once uploaded)*
+![Image](https://github.com/user-attachments/assets/073ced29-0f98-4b90-b847-e50e207ba9ed)
 
 ---
 
